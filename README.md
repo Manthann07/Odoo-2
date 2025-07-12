@@ -1,4 +1,4 @@
-# SkillSwap Platform
+# Skill Swap Platform
 
 A full-stack skill exchange platform where users can offer and request skills for mutual learning. Includes admin features for moderation, analytics, and reporting.
 
